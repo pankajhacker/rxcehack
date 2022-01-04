@@ -145,10 +145,10 @@ if(expirydate>today):
     if (now>First and now<Firstend):
             period=220
             hero()
-    elif(now>Second and now<Secondend):
+    #elif(now>Second and now<Secondend):
             period=280
             hero()
-    elif(now>Third and now<Thirdend):
+    #elif(now>Third and now<Thirdend):
             period=340
             hero()
     elif(now>Final and now<Finalend):
@@ -159,11 +159,11 @@ if(expirydate>today):
             hero()
     else:
         banner='figlet Rxce 7.o '
-        print("Hi!! Thanks for buying Life time the hack")
+        print("Hi!! Thanks for buying the hack")
         print("----------Your play time-----------")
         print(" 11:00 PM- 11:35 PM")
-        print(" 02:00 PM- 02:35 PM")
-        print(" 05:00 PM- 05:35 PM")
+        #print(" 02:00 PM- 02:35 PM")
+        #print(" 05:00 PM- 05:35 PM")
         print(" 08:00 PM- 08:35 PM")
         print(" 11:00 PM- 12:35 PM")
         print("Please play on the given time, and ")
