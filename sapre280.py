@@ -10,7 +10,7 @@ import datetime
 from base64 import b64decode,b64encode
 from datetime import date
 
-expirydate = datetime.date(2022,  1, 19 )
+expirydate = datetime.date(2022,  1, 24 )
 #expirydate = datetime.date(2021, 12, 30)
 today=date.today()
 today=date.today()
@@ -170,11 +170,11 @@ if(expirydate>today):
         banner='figlet RXCE8.1|lolcat'
         print("Hi!! Thanks for buying Life time the hack")
         print("----------Your play time-----------")
-        print(" 11:00 PM- 11:35 PM")
-        print(" 02:00 PM- 02:35 PM")
-        print(" 05:00 PM- 05:35 PM")
-        print(" 09:00 PM- 09:35 PM")
-        print(" 11:00 PM- 12:35 PM")
+        print("24th JAN 2022, 11:00 PM- 11:35 PM")
+        print("24th JAN 2022, 02:00 PM- 02:35 PM")
+        print("24th JAN 2022, 05:00 PM- 05:35 PM")
+        print("24th JAN 2022, 09:00 PM- 09:35 PM")
+        print("24th JAN 2022, 11:00 PM- 12:35 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @Hackmgk ")
