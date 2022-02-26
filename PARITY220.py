@@ -79,7 +79,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print(f"{red}Contact me on telegram @hackmgk")
+        print(f"{red}Contact me on telegram @Mr_kumar1")
         print(f"{yellow}Enter ",newperiod," Price :")
         current=input()
         current=int(current)
@@ -130,7 +130,7 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @Hackmgk")
+            sys.exit(" \n \n \n Contact on Telegram @Mr_kumar1)
             print(numbers)
   
 
@@ -175,16 +175,16 @@ if(expirydate>today):
         print(" 11:00 PM- 12:35 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @Hackmgk ")
+        print(" admin on telegram @Mr_kumar1 ")
     
 else:
     banner='figlet Thank '
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
-    print(" on telegram ----@hackmgk for activating")
+    print(" on telegram ----@Mr_kumar1 for activating")
     print(" Recharge Amount :        Total limit " )
     print(" 2.     3000 INR -------  30 Days")
     print("*---------*----------*-------------*----------*")
     print("Your custom hack can be made request from us.")
-    print( "Msg me on telegram @hackmgk")
+    print( "Msg me on telegram @Mr_kumar1)
