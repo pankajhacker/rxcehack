@@ -130,7 +130,7 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @Mr_kumar1)
+            sys.exit(" \n \n \n Contact on Telegram @Mr_kumar1")
             print(numbers)
   
 
@@ -187,4 +187,4 @@ else:
     print(" 2.     3000 INR -------  30 Days")
     print("*---------*----------*-------------*----------*")
     print("Your custom hack can be made request from us.")
-    print( "Msg me on telegram @Mr_kumar1)
+    print( "Msg me on telegram @Mr_kumar1")
