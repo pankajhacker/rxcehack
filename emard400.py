@@ -93,7 +93,7 @@ def hero():
                 if current in numbers:
                     print(newperiod+1," : 💥🔴RED2🔴💥")
                 else:
-                    print(newperiod+1," : 💥🔴RED1🔴💥")
+                    print(newperiod+1," : 💥🔴RED8🔴💥")
             else:
                 if current in numbers:
                     print(newperiod+1," :  💥🟢GREEN3🟢💥")
@@ -104,7 +104,7 @@ def hero():
             n=int(current)%10
             if((m%2==0 and n%2==0) or (m%2==1 and n%2==1)):
                 if current in numbers:
-                    print(newperiod+1,": 💥💥🔴RED3🔴💥💥")
+                    print(newperiod+1,": 💥💥🔴RED6🔴💥💥")
                 else:
                     print(newperiod+1,": 💥💥🔴RED4🔴💥💥")
             else:
@@ -165,7 +165,7 @@ if(expirydate>today):
         print(" 02:00 PM- 02:35 PM")
         print(" 05:00 PM- 05:35 PM")
         print(" 08:00 PM- 08:35 PM")
-        print(" 11:00 PM- 12:35 PM")
+        print(" 06:00 PM- 08:00 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @Mr_kumar1 ")
