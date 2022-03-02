@@ -172,6 +172,7 @@ if(expirydate>today):
         print("Hi!! Thanks for buying Life time the hack")
         print("----------Your play time-----------")
         print(" 11:00 PM- 11:35 PM")
+        print(" 12:15 PM- 12:45 PM")
         print(" 02:00 PM- 02:35 PM")
         print(" 05:00 PM- 05:35 PM")
         print(" 09:00 PM- 09:35 PM")
