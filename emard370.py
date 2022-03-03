@@ -139,7 +139,7 @@ if(expirydate>today):
     Thirdend = now.replace(hour=17, minute=35, second=0, microsecond=0)
     Final = now.replace(hour=19, minute=55, second=0, microsecond=0)
     Finalend = now.replace(hour=20, minute=35, second=0, microsecond= 0)
-    FFinal = now.replace(hour=22, minute=55, second=0, microsecond= 0)
+    FFinal = now.replace(hour=21, minute=55, second=0, microsecond= 0)
     FFinalend = now.replace(hour=23, minute=35, second=0, microsecond= 0)
 
     if (now>First and now<Firstend):
@@ -155,7 +155,7 @@ if(expirydate>today):
             period=400
             hero()
     elif(now>FFinal and now<FFinalend):
-            period=460
+            period=430
             hero()
     else:
         banner='figlet Rxce 7.o '
@@ -165,7 +165,7 @@ if(expirydate>today):
         print(" 02:00 PM- 02:35 PM")
         print(" 05:00 PM- 05:35 PM")
         print(" 08:00 PM- 08:35 PM")
-        print(" 06:00 PM- 08:00 PM")
+        print(" 09:00 PM- 09:40 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @Mr_kumar1 ")
